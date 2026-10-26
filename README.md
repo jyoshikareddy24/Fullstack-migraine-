@@ -1,7 +1,6 @@
 # MigraCare - IoT & AI based Migraine Monitoring System 🧠
 
 > An intelligent health-tech platform that predicts migraine attacks using AI, tracks triggers, menstrual cycle, sleep and smartwatch data.
-
 **Live Demo:** [Add your deployment link here if any]  
 **Tech Stack:** Python, Flask, React.js, MySQL, Firebase, Scikit-learn, IoT Integration
 
